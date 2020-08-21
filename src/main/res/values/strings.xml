@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tiip Calculator</string>
+    <string name="Nameid">Name</string>
+    <string name="Tip">Tip Percentage</string>
+    <string name="Tipbtn">Tip Calculator</string>
+    <string name="ResultId" />
+    <string name="Enter_amout">Enter Your Bill Amount</string>
+    <string name="Enter_amount">Enter Your Bill Amount</string>
+    <string name="SeekBarTextviewId" />
+</resources>
